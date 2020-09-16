@@ -15,3 +15,5 @@ https://github.com/rendod99/Bootstrap_hw_wk2
 
 Link to deployed application:
 https://rendod99.github.io/Bootstrap_hw_wk2/index.html
+
+<img width="1679" alt="Screen Shot 2020-09-16 at 5 35 41 PM" src="https://user-images.githubusercontent.com/66277385/93399410-26763600-f843-11ea-8481-faac19d9f342.png">
